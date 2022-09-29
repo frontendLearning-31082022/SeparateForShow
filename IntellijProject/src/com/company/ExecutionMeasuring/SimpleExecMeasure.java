@@ -24,7 +24,7 @@ public class SimpleExecMeasure {
 
   public   static void run() {
 
-//        TestThread.testDrive();
+        TestThread.testDrive();
 
         Thread threadMonitor = new Thread() {
             public void run() {
